@@ -17,5 +17,4 @@
 </p>
 
 <h3>Github Statistics</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&layout=compact"></p>
