@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello There
 
-<!--
-**JD79317/JD79317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages and Tools</h3>
+  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white"/>
+  <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=flat-square&logo=gimp&logoColor=white"/>
+  <img alt="intellij IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
+  <img alt="Sonar lint" src="https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white"/>
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white"/>
+  <img alt="Elastic search" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"/>
+  <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"/>
