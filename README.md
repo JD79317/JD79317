@@ -15,6 +15,7 @@
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"/>
 </p>
+
 <h3>Github Statistics</h3>
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&hide_border=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&hide_border=false&count_private=false&layout=compact)
 
