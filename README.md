@@ -1,6 +1,7 @@
 ### Hello There
 
 <h3>Languages and Tools</h3>
+<p>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white"/>
   <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
@@ -15,3 +16,4 @@
   <img alt="Elastic search" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"/>
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white"/>
+</p>
