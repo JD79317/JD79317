@@ -17,5 +17,5 @@
 </p>
 
 <h3>Github Statistics</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&hide_border=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&hide_border=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
