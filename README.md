@@ -19,4 +19,4 @@
 <h3>Github Statistics</h3>
 <p><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&layout=compact"></p>
 
-<p><img alt="View Count" src="https://komarev.com/ghpvc/?username=JD79317&style=flat-square&color=151414"/></p>
+<p><img alt="Grade" src="https://github-readme-stats.vercel.app/api?username=JD79317&show_icons=true&theme=dark"/></p>
