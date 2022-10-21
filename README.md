@@ -18,4 +18,4 @@
 
 <h3>Github Statistics</h3>
 <p><img alt="Grade" src="https://github-readme-stats.vercel.app/api?username=JD79317&show_icons=true&theme=dark"/></p>
-<h2><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&layout=compact"></h2>
+<h1><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD79317&theme=dark&layout=compact"></h1>
